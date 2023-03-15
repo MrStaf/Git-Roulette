@@ -44,6 +44,8 @@ python git_roulette.py 10
 python git_roulette.py 1
 ```
 
+Then I used delete_empty_folders.py to remove empty folders.
+
 ## Contributing
 
 If you find any bugs or issues with **Git Roulette**, please submit a GitHub issue or a pull request. We welcome all contributions and feedback.
